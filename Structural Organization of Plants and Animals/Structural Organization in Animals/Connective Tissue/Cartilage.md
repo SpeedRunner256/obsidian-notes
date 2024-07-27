@@ -1,0 +1,7 @@
+- Intercellular material is solid and pliable - resists compression
+- Chondrocytes are enclosed in small cavities within the matrix secreted by them.
+- Most of cartilages in vertebrates replaced by bones in adults
+- Still present in 
+	- Tip of nose
+	- outer ear joints
+	- between adjacent bones of the vertebral column

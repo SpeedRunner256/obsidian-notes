@@ -1,0 +1,3 @@
+- Hard and non pliable ground substance, rich in calcium salts and collagen fibers
+- Bone cells (Osteocytes) are present in the spaces called **lacunae**
+- The bone marrow in some bones is the site of production of blood cells.
