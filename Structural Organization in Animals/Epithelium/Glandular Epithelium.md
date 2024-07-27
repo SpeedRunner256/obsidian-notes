@@ -1,0 +1,15 @@
+
+- Some columnar or cuboidal cells get specialized for secretion.
+- They are of two types
+	- Unicellular
+		- Isolated Glandular Cells
+		- Goblet cells of the alimentary canal
+	- Multicellular
+		- Cluster of cells
+		- Salivary gland
+- On basis of mode of pouring of secretion, 
+	- Exocrine Glands
+		- Mucus, saliva, earwax, oil, milk, digestive enzymes and other cell products. 
+		- Released via ducts or tubes
+	- Endocrine glands
+		- Hormones secreted directly into the fluid bathing the gland

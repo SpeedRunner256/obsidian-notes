@@ -1,0 +1,11 @@
+
+- Held together with little intercellular material.
+- All animal tissues - specialized functions provide both structural and functional link.
+- Three types of junctions present
+	- Tight junction
+		- Stop substances from leaking through.
+	- Adhering Junction
+		- Cementing to keep neighboring cells together.
+	- Gap junction
+		- Communication with each other by connecting cytoplasm of adjoining cells 
+		- for rapid transfer of ions, small molecules, big molecules.
